@@ -1,8 +1,10 @@
-### Hi there 👋
-
+###
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eUlisesBaezGt&count_private=true)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=eUlisesBaezGt&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eUlisesBaezGt&layout=compact)
+
 
 https://www.instagram.com/kikinacademy/
 
