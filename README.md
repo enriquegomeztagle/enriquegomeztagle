@@ -3,7 +3,10 @@
  
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=eUlisesBaezGt&count_private=true&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eUlisesBaezGt&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eUlisesBaezGt-pattalam&theme=dark" width="48%" >
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eUlisesBaezGt-pattalam&layout=compact)
 
 
 https://www.instagram.com/kikinacademy/
