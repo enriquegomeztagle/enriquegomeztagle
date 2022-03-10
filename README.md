@@ -3,6 +3,7 @@
  
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=eUlisesBaezGt&count_private=true&show_icons=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eUlisesBaezGt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 https://www.instagram.com/kikinacademy/
