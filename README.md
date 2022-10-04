@@ -1,4 +1,3 @@
-### prueba
 <h1 align="center">Hi 👋, I'm eUlisesBaezGt</h1>
 <h3 align="center">Data intelligence and Cybersecurity Engineer. Owner of Kikin Academy</h3>
 
