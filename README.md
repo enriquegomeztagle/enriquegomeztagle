@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm eUlisesBaezGt</h1>
 <h3 align="center">FRONT-END DEVELOPMENT LEADER at @ioslabup, 
-Machine Learning Leader & CDMX Leader @up.panteras, 
+Machine Learning Leader & CDMX Leader at @up.panteras, 
 CEO at @kikinacademy, 
-Data Intelligence &  Cybersecurity @up.mx</h3>
+Data Intelligence &  Cybersecurity at @up.mx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eulisesbaezgt&label=Profile%20views&color=0e75b6&style=flat" alt="eulisesbaezgt" /> </p>
 
