@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm HeinrichGomTag</h1>
 <h3 align="center">FRONT-END DEVELOPMENT LEADER at @ioslabup, 
-Machine Learning Leader & CDMX Leader at @up.panteras, 
+Machine Learning CDMX Leader at @up.panteras, 
 CEO at @kikinacademy, 
 Data Intelligence &  Cybersecurity at @up.mx</h3>
 
