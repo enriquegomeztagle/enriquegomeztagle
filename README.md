@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm HeinrichGomTag</h1>
-<h3 align="center">FRONT-END DEVELOPMENT LEADER at @ioslabup, 
-Machine Learning CDMX Leader at @up.panteras, 
-CEO at @kikinacademy, 
-Data Intelligence &  Cybersecurity at @up.mx</h3>
+<h3 align="center">iCodeUP Team LEADER at @ioslabup
+Software Architect at @nyx
+CEO at @kikinacademy 
+Data Intelligence &  Cybersecurity @up.mx</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeinrichGomTag&label=Profile%20views&color=0e75b6&style=flat" alt="HeinrichGomTag" /> </p>
 
