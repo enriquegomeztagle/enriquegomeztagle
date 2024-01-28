@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Enrique Gomez Tagle</h1>
-<h3 align="center">iCodeUP Team LEADER at @ioslabup,
-AWS Solutions Architect,
-CEO at @kikinacademy,
-Data Intelligence &  Cybersecurity UP MX</h3>
+<h3 align="center">
+AWS Software Architect / Engineer 
+- ML / GenAI Expert
+- Jr Data Engineer
+- App Development with Swift Associate (by Apple Inc.)
+- CEO at @kikinacademy
+- Data Intelligence &  Cybersecurity UP MX</h3>
+
+<h3 align="left">My Google Badges:</h3>
+<a href="[https://twitter.com/kikinacademy](https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16)">Here</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
 
