@@ -7,14 +7,14 @@ AWS Software Architect / Engineer
 - CEO at @kikinacademy
 - Data Intelligence &  Cybersecurity UP MX</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
+<p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
+
 <h3 align="left">My Google Badges:</h3>
 <a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16">G-Cloud</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
-
+<h3 align="left">Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquegomeztagle" alt="enriquegomeztagle" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
