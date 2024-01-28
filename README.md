@@ -8,7 +8,7 @@ AWS Software Architect / Engineer
 - Data Intelligence &  Cybersecurity UP MX</h3>
 
 <h3 align="left">My Google Badges:</h3>
-<a href="[https://twitter.com/kikinacademy](https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16)">Here</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/ab5a0a14-8f33-42ce-be80-2620aee93c16">G-Cloud</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
 
