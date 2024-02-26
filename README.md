@@ -7,6 +7,10 @@ AWS Software Architect / Engineer
 - CEO at @kikinacademy
 - Data Intelligence &  Cybersecurity UP MX</h3>
 
+🆕 Clase Grafo para Inteligencia Artificial:
+- [Paquete de PyPI](https://pypi.org/project/KAGraph/)
+- [Repo de GitHub](https://github.com/kikinacademy/KAGraph)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
 <p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
 
