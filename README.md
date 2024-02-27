@@ -9,7 +9,7 @@ AWS Software Architect / Engineer
 
 🆕 Clase Grafo para Inteligencia Artificial:
 - [Paquete de PyPI](https://pypi.org/project/KAGraph/)
-- [Repo de GitHub](https://github.com/kikinacademy/KAGraph)
+- [Repo de GitHub](https://github.com/Zoph-IA/KAGraph)
 
 🧠 Líder de Zoph-IA
 - [Repo de GitHub](https://github.com/Zoph-IA)
