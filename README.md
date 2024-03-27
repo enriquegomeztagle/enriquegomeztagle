@@ -77,7 +77,8 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <h3 align="center">Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquegomeztagle" alt="enriquegomeztagle" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=enriquegomeztagle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
