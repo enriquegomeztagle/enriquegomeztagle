@@ -28,17 +28,6 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
 <p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
 
-
-<h3 align="center">Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquegomeztagle" alt="enriquegomeztagle" /></a> </p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kikinacademy" height="30" width="40" /></a>
-<a href="https://fb.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kikinacademy" height="30" width="40" /></a>
-<a href="https://instagram.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kikinacademy" height="30" width="40" /></a>
-</p>
-
 <h3 align="center">Languages and Tools 📎:</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -87,10 +76,18 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+<h3 align="center">Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquegomeztagle" alt="enriquegomeztagle" /></a> </p>
+
 [![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquegomeztagle&show_icons=true&locale=en&layout=compact" alt="enriquegomeztagle" /></p>
+![enriquegomeztagle's Stats](https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![enriquegomeztagle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&theme=material-palenight&hide_border=true)
+![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&show_icons=true&locale=en" alt="enriquegomeztagle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&" alt="enriquegomeztagle" /></p>
+<h3 align="center">Connect with me</h3>
+<p align="center">
+<a href="https://twitter.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kikinacademy" height="30" width="40" /></a>
+<a href="https://fb.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kikinacademy" height="30" width="40" /></a>
+<a href="https://instagram.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kikinacademy" height="30" width="40" /></a>
+</p>
