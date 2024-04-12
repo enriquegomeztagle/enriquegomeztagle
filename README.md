@@ -2,31 +2,42 @@
 <h3 align="center">
 AWS Software Architect / Engineer 
 - ML / GenAI Expert
-- Jr Data Engineer
+- Data Engineer
 - App Development with Swift Associate (by Apple Inc.)
 - CEO at @kikinacademy
 - Data Intelligence &  Cybersecurity UP MX</h3>
 
-## Explore My Achievements 🏅
-
+<h1 align="center">
+  Explore My Achievements 🏅
+</h1>
 I'm deeply passionate about technology and continuous learning. Over the years, I've accumulated a range of badges that showcase my skills in various domains, including cloud computing, AI, and software development. These badges are a testament to my commitment to excellence and lifelong learning.
 
-👉 [Visit My Badge Collection!](https://github.com/enriquegomeztagle/Certs-Badges/tree/main)
-
+<h1 align="center">
+  <a href="https://github.com/enriquegomeztagle/Certs-Badges/tree/main"> 👉 Visit my Badge Collection 👈
+  </a>
+</h1>
 This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and other platforms. Each badge represents a milestone in my journey as a technology professional.
 
 <h3 align="center">Other Achievements</h3>
-
-
-🆕 Clase Grafo para Inteligencia Artificial:
-- [Paquete de PyPI](https://pypi.org/project/KAGraph/)
-- [Repo de GitHub](https://github.com/Zoph-IA/KAGraph)
-
-🧠 Líder de Zoph-IA
-- [Repo de GitHub](https://github.com/Zoph-IA)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
-<p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
+<div align="center">
+  
+[![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
+  <table width="80%">
+    <tr>
+      <td valign="top">
+        🆕 Clase Grafo para Inteligencia Artificial:
+        <ul>
+          <li><a href="https://pypi.org/project/KAGraph/">Paquete de PyPI</a></li>
+          <li><a href="https://github.com/Zoph-IA/KAGraph">Repo de GitHub</a></li>
+        </ul>
+      </td>
+      <td valign="top">
+        🧠 Creador de <a href="https://github.com/Zoph-IA">Zoph-IA</a> 💡
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -82,16 +93,25 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 <h3 align="center">Stats</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enriquegomeztagle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
-
 ![enriquegomeztagle's Stats](https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 ![enriquegomeztagle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&theme=material-palenight&hide_border=true)
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
+
 <h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kikinacademy" height="30" width="40" /></a>
-<a href="https://fb.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kikinacademy" height="30" width="40" /></a>
-<a href="https://instagram.com/kikinacademy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kikinacademy" height="30" width="40" /></a>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="facebook logo"  />
+</div>
 </p>
+
+![snake animation](https://github.com/<seu enriquegomeztagle>/<seu enriquegomeztagle>/blob/output/github-contribution-grid-snake2.svg)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/quiqueuli">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=quiqueuli&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
