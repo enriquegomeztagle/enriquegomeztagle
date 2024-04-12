@@ -39,7 +39,9 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
   </table>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">
+ 🛠️ Languages and Tools: ⚙️
+</h1>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -90,7 +92,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="center">Stats</h3>
+<h1 align="center">📈 Stats</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=enriquegomeztagle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![enriquegomeztagle's Stats](https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
@@ -98,18 +100,31 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 
-<h3 align="center">Connect with me</h3>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
+<h1 align="center">🤝 Connect with me</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/enrique-g%C3%B3mez-tagle-98053b2ba/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com/users/789225952911163395">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://www.twitch.tv/enriquegomeztagle">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
+  </a>
+  <a href="https://www.facebook.com/ulises.baez.gt/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+  <a href="https://www.instagram.com/enrique.gomeztagle/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
 </p>
+
+
+<h1 align="center">🐍 Contributions</h1>
 
 ![snake gif](https://github.com/enriquegomeztagle/enriquegomeztagle/blob/output/github-contribution-grid-snake-dark.svg)
 
+<h1 align="center">🎵 I'm Listening to: </h1>
 <div align="center">
   <a href="https://open.spotify.com/user/quiqueuli">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=quiqueuli&count=10" alt="Spotify recently played"  />
