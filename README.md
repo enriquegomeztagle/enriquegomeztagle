@@ -108,7 +108,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 </div>
 </p>
 
-![snake animation](https://github.com/<enriquegomeztagle>/<enriquegomeztagle>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/enriquegomeztagle/enriquegomeztagle/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <a href="https://open.spotify.com/user/quiqueuli">
