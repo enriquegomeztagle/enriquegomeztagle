@@ -21,7 +21,6 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 <h3 align="center">Other Achievements</h3>
 <div align="center">
   
-[![wakatime](https://wakatime.com/badge/user/c7405de5-ee2f-4399-b19b-e2a8e8fd5856.svg)](https://wakatime.com/@c7405de5-ee2f-4399-b19b-e2a8e8fd5856)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enriquegomeztagle&label=Profile%20views&color=0e75b6&style=flat" alt="enriquegomeztagle" /> </p>
   <table width="80%">
     <tr>
