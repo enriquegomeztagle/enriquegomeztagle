@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Enrique Gomez Tagle</h1>
 <h3 align="center">
-AWS Software Architect / Engineer 
-- AWS ML / GenAI Expert
-- AWS Data Engineer
+  
+AWS Cloud AI & Data Lead
+- iOS Lab's Software Architect
 - App Development with Swift Associate (by Apple Inc.)
 - CEO at @kikinacademy
 - Data Intelligence &  Cybersecurity UP MX</h3>
