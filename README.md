@@ -115,6 +115,9 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&theme=material-palenight&hide_border=true)
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <h1 align="center">🐍 Contributions</h1>
 
