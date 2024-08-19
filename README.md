@@ -116,6 +116,15 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 10 May 2024 - To: 19 August 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
