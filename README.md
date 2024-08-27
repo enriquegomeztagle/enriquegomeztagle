@@ -118,11 +118,11 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 May 2024 - To: 26 August 2024
+From: 10 May 2024 - To: 27 August 2024
 
-Total Time: 13 hrs 40 mins
+Total Time: 14 hrs 49 mins
 
-Other          35 hrs 23 mins  >>>>>>>>>>>>>>>>>>-------   72.14 %
+Other          42 hrs 33 mins  >>>>>>>>>>>>>>>>>>>------   74.15 %
 ```
 
 <!--END_SECTION:waka-->
