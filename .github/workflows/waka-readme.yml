@@ -26,10 +26,3 @@ jobs:
 
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: enriquegomeztagle
-          COMMITTER_EMAIL: 0241823@up.edu.mx
-          AUTHOR_NAME: enriquegomeztagle
-          AUTHOR_EMAIL: 0241823@up.edu.mx
-          
