@@ -7,6 +7,22 @@ on:
     - cron: "0 * * * *"
 
 jobs:
+  update-readme-metrics:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "True"
+          
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
@@ -25,7 +41,7 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: rust # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 15 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
