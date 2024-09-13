@@ -115,16 +115,8 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&theme=material-palenight&hide_border=true)
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
+
 <!--START_SECTION:waka-->
-
-```rust
-From: 10 May 2024 - To: 12 September 2024
-
-Total Time: 35 hrs 42 mins
-
-Other              154 hrs 12 mins >>>>>>>>>>>>>>>>>>>>-----   81.20 %
-```
-
 <!--END_SECTION:waka-->
 
 
