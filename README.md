@@ -117,7 +117,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -127,7 +127,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,278 Contributions in the Year 2024
+> 🏆 1,279 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -191,11 +191,11 @@ Linux                    7 mins              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            █████████░░░░░░░░░░░░░░░░   36.56 % 
-Jupyter Notebook         15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   35 repos            █████████░░░░░░░░░░░░░░░░   37.23 % 
+Jupyter Notebook         15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Swift                    9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
@@ -205,7 +205,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 23:22:02 UTC
+ Last Updated on 14/09/2024 01:38:10 UTC
 <!--END_SECTION:waka-->
 
 
