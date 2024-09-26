@@ -117,7 +117,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
 
@@ -126,8 +126,6 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
- > 
-> 🏆 1,468 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -204,7 +202,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2024 21:21:08 UTC
+ Last Updated on 26/09/2024 22:21:57 UTC
 <!--END_SECTION:waka-->
 
 
