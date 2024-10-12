@@ -117,7 +117,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -190,11 +190,11 @@ Windows                  42 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   39 repos            ██████████░░░░░░░░░░░░░░░   38.61 % 
+Python                   38 repos            █████████░░░░░░░░░░░░░░░░   37.62 % 
 Jupyter Notebook         15 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 Mojo                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 
@@ -204,7 +204,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2024 19:18:00 UTC
+ Last Updated on 12/10/2024 20:23:48 UTC
 <!--END_SECTION:waka-->
 
 
