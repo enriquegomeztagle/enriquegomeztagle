@@ -117,7 +117,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,9 +131,9 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
  > 
 > 💼 Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 46 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 15 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -204,7 +204,7 @@ Mojo                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 20:25:04 UTC
+ Last Updated on 13/10/2024 21:22:45 UTC
 <!--END_SECTION:waka-->
 
 
