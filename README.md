@@ -117,6 +117,8 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.5%20million%20lines%20of%20code-blue)
@@ -160,14 +162,14 @@ Sunday                   425 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Other                    37 hrs 55 mins      ██████████████████████░░░   86.47 % 
+Other                    37 hrs 55 mins      ██████████████████████░░░   86.48 % 
 Python                   1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 Go                       1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 HTTP Request             44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 Makefile                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 43 mins      ███████████████░░░░░░░░░░   60.96 % 
+Chrome                   26 hrs 44 mins      ███████████████░░░░░░░░░░   60.96 % 
 VS Code                  3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ‎WhatsApp                3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 Unknown Editor           3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
@@ -202,7 +204,7 @@ Mojo                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 06:35:02 UTC
+ Last Updated on 04/11/2024 07:23:08 UTC
 <!--END_SECTION:waka-->
 
 
