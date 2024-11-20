@@ -127,8 +127,6 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 2,138 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -205,7 +203,7 @@ Mojo                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 21:25:13 UTC
+ Last Updated on 20/11/2024 22:23:30 UTC
 <!--END_SECTION:waka-->
 
 
