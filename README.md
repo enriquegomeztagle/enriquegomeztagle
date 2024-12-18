@@ -117,7 +117,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-790%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -205,7 +205,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 17:23:30 UTC
+ Last Updated on 18/12/2024 18:36:55 UTC
 <!--END_SECTION:waka-->
 
 
