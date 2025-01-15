@@ -116,7 +116,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -126,7 +126,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2025
+> 🏆 66 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -203,7 +203,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 23:24:34 UTC
+ Last Updated on 15/01/2025 01:46:38 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
