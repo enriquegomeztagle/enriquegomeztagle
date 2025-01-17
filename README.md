@@ -116,7 +116,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-903%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -125,8 +125,6 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
- > 
-> 🏆 156 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -189,11 +187,11 @@ Linux                    20 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   45 repos            ██████████░░░░░░░░░░░░░░░   39.47 % 
-Jupyter Notebook         17 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Swift                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Python                   45 repos            ██████████░░░░░░░░░░░░░░░   39.13 % 
+Jupyter Notebook         18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Swift                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
 
@@ -203,7 +201,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2025 23:26:28 UTC
+ Last Updated on 17/01/2025 01:45:15 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
