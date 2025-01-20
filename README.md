@@ -116,7 +116,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
@@ -124,7 +124,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2025
+> 🏆 175 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -136,14 +136,14 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 ```text
 🌞 Morning                1114 commits        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-🌆 Daytime                1833 commits        █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌆 Daytime                1834 commits        █████████░░░░░░░░░░░░░░░░   34.14 % 
 🌃 Evening                1583 commits        ███████░░░░░░░░░░░░░░░░░░   29.47 % 
 🌙 Night                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Monday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 Tuesday                  1039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 Wednesday                904 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Thursday                 838 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
@@ -201,7 +201,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2025 20:26:47 UTC
+ Last Updated on 20/01/2025 21:23:19 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
