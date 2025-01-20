@@ -16,7 +16,8 @@ jobs:
           GH_TOKEN: ${{ secrets.INPUT_GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          COMMIT_BY_ME:  "True"
+          COMMIT_EMAIL: "0241823@up.edu.mx"
+          COMMIT_USERNAME: "enriquegomeztagle"
           
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
@@ -27,6 +28,5 @@ jobs:
           
           SHOW_LOC_CHART: "True"
           SHOW_TIMEZONE: "True"
-          
-
+          SHOW_PROFILE_VIEWS: "False"
   
