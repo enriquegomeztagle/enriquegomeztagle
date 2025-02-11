@@ -116,7 +116,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C010%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
@@ -124,7 +124,7 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 766 Contributions in the Year 2025
+> 🏆 775 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -135,21 +135,21 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1269 commits        █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-🌆 Daytime                2019 commits        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-🌃 Evening                1716 commits        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-🌙 Night                  991 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+🌞 Morning                1274 commits        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+🌆 Daytime                2019 commits        ████████░░░░░░░░░░░░░░░░░   33.65 % 
+🌃 Evening                1716 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌙 Night                  991 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   803 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Tuesday                  1126 commits        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Wednesday                981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Thursday                 931 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Friday                   768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Saturday                 787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Sunday                   599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Monday                   803 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Tuesday                  1131 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Wednesday                981 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Thursday                 931 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Saturday                 787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Sunday                   599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 ```
 
 
@@ -187,8 +187,8 @@ Windows                  39 mins             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   46 repos            ██████████░░░░░░░░░░░░░░░   38.98 % 
-Jupyter Notebook         19 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Python                   45 repos            ██████████░░░░░░░░░░░░░░░   38.14 % 
+Jupyter Notebook         20 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
 Swift                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
@@ -201,7 +201,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 15:29:22 UTC
+ Last Updated on 11/02/2025 16:36:39 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
