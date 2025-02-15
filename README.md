@@ -116,13 +116,15 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2015%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 853 Contributions in the Year 2025
+> 🏆 855 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -130,6 +132,57 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1293 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌆 Daytime                2042 commits        ████████░░░░░░░░░░░░░░░░░   33.59 % 
+🌃 Evening                1736 commits        ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   803 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Tuesday                  1144 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Wednesday                1004 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 953 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   789 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Saturday                 788 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Sunday                   599 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+Other                    29 hrs 53 mins      ████████████████████████░   96.75 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+HTTP Request             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+Chrome                   22 hrs 7 mins       ██████████████████░░░░░░░   71.63 % 
+‎WhatsApp                3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+ChatGPT                  3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Zoom                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+VS Code                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+
+🐱‍💻 Projects: 
+MaestriaCienciaDatos-Esta8 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+WORKSESSION | RSIN       3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Proyecto-Analytics-DataSe2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+jrq-wodx-inp             2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+RSIN-Entrega             2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+
+💻 Operating System: 
+Mac                      30 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -147,7 +200,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2025 06:34:27 UTC
+ Last Updated on 15/02/2025 07:21:48 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
