@@ -3,16 +3,16 @@
   
 AWS Data & AI Engineer - MLOps / LLMOps - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy - Data Intelligence &  Cybersecurity UP MX</h3>
  
-<h1 align="center">
-  Explore My Achievements 🏅
-</h1>
-I'm deeply passionate about technology and continuous learning. Over the years, I've accumulated a range of badges that showcase my skills in various domains, including cloud computing, AI, and software development. These badges are a testament to my commitment to excellence and lifelong learning.
-
-<h1 align="center">
-  <a href="https://github.com/enriquegomeztagle/Certs-Badges/tree/main"> 👉 Visit my Badge Collection 👈
+<h3 align="center">
+  <a href="https://github.com/enriquegomeztagle/Certs-Badges/tree/main"> 🏅 Visit my Badge Collection 🏅
   </a>
-</h1>
+</h3>
 This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and other platforms. Each badge represents a milestone in my journey as a technology professional.
+
+<h3 align="center">
+  <a href="https://github.com/enriquegomeztagle/TopProyects/blob/main/README.md"> 👉 Visit My Top Projects 👈 </a>
+</h3>
+Discover my featured projects that showcase my skills in AI, cloud architecture, and innovative web applications. Each project is a milestone on my journey toward technological excellence.
 
 <h3 align="center">Other Achievements</h3>
 <div align="center">
@@ -27,9 +27,10 @@ This collection includes badges from Credly, Google Cloud Skills Boost, AWS, and
           <li><a href="https://github.com/Zoph-IA/KAGraph">Repo de GitHub</a></li>
         </ul>
       </td>
-      <td valign="top">
+      <!--  <td valign="middle">
         🧠 Creador de <a href="https://github.com/Zoph-IA">Zoph-IA</a> 💡
       </td>
+      -->
     </tr>
   </table>
 </div>
