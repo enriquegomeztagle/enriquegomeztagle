@@ -117,15 +117,13 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C328%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.3 MB Used in GitHub's Storage 
- > 
-> 🏆 2,403 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -136,20 +134,20 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1158 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-🌆 Daytime                2248 commits        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌞 Morning                1159 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+🌆 Daytime                2248 commits        ████████░░░░░░░░░░░░░░░░░   33.17 % 
 🌃 Evening                2003 commits        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
 🌙 Night                  1367 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  1289 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Monday                   903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Tuesday                  1290 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 Wednesday                1033 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 Thursday                 941 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Friday                   1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Saturday                 882 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Friday                   1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 882 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 Sunday                   716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 ```
 
@@ -202,7 +200,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 16:32:14 UTC
+ Last Updated on 15/04/2025 17:26:36 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
