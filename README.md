@@ -117,7 +117,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
 
@@ -125,7 +125,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 3.3 MB Used in GitHub's Storage 
  > 
-> 🏆 2,660 Contributions in the Year 2025
+> 🏆 2,661 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -144,8 +144,8 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   924 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Tuesday                  1326 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+Monday                   923 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Tuesday                  1327 commits        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
 Wednesday                1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
 Thursday                 977 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
 Friday                   1085 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
@@ -187,9 +187,9 @@ Mac                      33 hrs 55 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   42 repos            █████████░░░░░░░░░░░░░░░░   34.71 % 
-Jupyter Notebook         25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Swift                    11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   42 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
+Jupyter Notebook         25 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Swift                    10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
@@ -201,7 +201,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 23/04/2025 05:29:08 UTC
+ Last Updated on 23/04/2025 06:36:40 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
