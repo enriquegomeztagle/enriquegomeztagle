@@ -125,8 +125,6 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 5,849 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 64 Public Repositories 
@@ -138,8 +136,8 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 ```text
 🌞 Morning                2017 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
 🌆 Daytime                3201 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                2607 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-🌙 Night                  2036 commits        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+🌃 Evening                2607 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
+🌙 Night                  2037 commits        █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -149,7 +147,7 @@ Tuesday                  1764 commits        ████░░░░░░░�
 Wednesday                1481 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
 Thursday                 1429 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 Friday                   1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 1207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 1208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 Sunday                   1140 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 ```
 
@@ -202,7 +200,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 10:30:52 UTC
+ Last Updated on 09/08/2025 11:23:46 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
