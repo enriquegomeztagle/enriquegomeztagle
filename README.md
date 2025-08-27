@@ -125,8 +125,6 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 3.4 MB Used in GitHub's Storage 
  > 
-> 🏆 6,295 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 66 Public Repositories 
@@ -136,7 +134,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2162 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌞 Morning                2163 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 🌆 Daytime                3352 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
 🌃 Evening                2686 commits        ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
 🌙 Night                  2167 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
@@ -145,11 +143,11 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 ```text
 Monday                   1516 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Tuesday                  1848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Wednesday                1558 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  1848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Wednesday                1559 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 Thursday                 1485 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Friday                   1468 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Saturday                 1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Saturday                 1285 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 Sunday                   1207 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
@@ -201,7 +199,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2025 13:38:09 UTC
+ Last Updated on 27/08/2025 14:27:26 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
