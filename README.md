@@ -117,13 +117,15 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 ![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 6,640 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -135,15 +137,15 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 ```text
 🌞 Morning                2255 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-🌆 Daytime                3488 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+🌆 Daytime                3489 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
 🌃 Evening                2739 commits        ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-🌙 Night                  2242 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+🌙 Night                  2242 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1560 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Tuesday                  1891 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Tuesday                  1892 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
 Wednesday                1580 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 Thursday                 1508 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 Friday                   1604 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
@@ -200,7 +202,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2025 23:23:01 UTC
+ Last Updated on 03/09/2025 01:53:01 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
