@@ -111,10 +111,14 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 <h1 align="center">📈 Stats</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enriquegomeztagle&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![enriquegomeztagle's Stats](https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![enriquegomeztagle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enriquegomeztagle&theme=material-palenight&hide_border=true)
-![enriquegomeztagle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegomeztagle&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enriquegomeztagle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquegomeztagle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=enriquegomeztagle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=enriquegomeztagle&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enriquegomeztagle&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2032%20mins-blue)
