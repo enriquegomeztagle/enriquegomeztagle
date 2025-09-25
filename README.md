@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrique Gomez Tagle</h1>
 <h3 align="center">
   
-AWS Data & AI Engineer - MLOps / LLMOps - iOS Lab's Software Architect - App Development with Swift Associate (by Apple Inc.) - CEO at @kikinacademy - Data Intelligence &  Cybersecurity UP MX</h3>
+💡 Senior Data & AI Engineer (L7) | Generative AI • MLOps • Data Engineering | MSc Data Science
  
 <h3 align="center">
   <a href="https://github.com/enriquegomeztagle/Certs-Badges/tree/main"> 🏅 Visit my Badge Collection 🏅
