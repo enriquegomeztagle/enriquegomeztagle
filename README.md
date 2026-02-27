@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrique Gomez Tagle</h1>
 <h3 align="center">
   
-💡 Senior Data & AI Engineer (L7) | Generative AI • MLOps • Data Engineering | MSc Data Science
+💡 Principal AI Software Engineer (L8) | GenAI • MLOps • Data Engineering | MSc Data Science
  
 <h3 align="center">
   <a href="https://github.com/enriquegomeztagle/Certs-Badges/tree/main"> 🏅 Visit my Badge Collection 🏅
