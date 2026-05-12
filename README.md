@@ -299,7 +299,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C368%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C377%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -307,7 +307,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,840 Contributions in the Year 2026
+> 🏆 2,841 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -315,57 +315,6 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2948 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌆 Daytime                3833 commits        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-🌃 Evening                2967 commits        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-🌙 Night                  3278 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Tuesday                  2102 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Wednesday                1823 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-Thursday                 1780 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 1734 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Sunday                   1859 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Other                    15 hrs 58 mins      ██████████████░░░░░░░░░░░   55.13 % 
-Python                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-TypeScript               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Markdown                 2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Terraform                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-
-🔥 Editors: 
-Chrome                   11 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   38.88 % 
-Ghostty                  10 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.91 % 
-‎WhatsApp                2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-ChatGPT                  1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Unknown Editor           59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-
-🐱‍💻 Projects: 
-poc-ai-chat-recommendatio12 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.33 % 
-poc-ai-legal-assistant-ku4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-StoyCo-DB                3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-project-finvivir-idcheck 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Practicas                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-
-💻 Operating System: 
-Mac                      28 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -383,7 +332,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 06:50:33 UTC
+ Last Updated on 12/05/2026 09:54:26 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
