@@ -299,13 +299,15 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C559%20hrs%2057%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,408 Contributions in the Year 2026
+> 🏆 4,409 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -319,7 +321,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 🌞 Morning                3146 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
 🌆 Daytime                4116 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
 🌃 Evening                3099 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌙 Night                  3493 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌙 Night                  3494 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -329,7 +331,7 @@ Tuesday                  2226 commits        ████░░░░░░░�
 Wednesday                1961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 Thursday                 1882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Friday                   2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Saturday                 1855 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 1856 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 Sunday                   1955 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
 ```
 
@@ -340,27 +342,27 @@ Sunday                   1955 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Markdown                 2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Other                    1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Markdown                 4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.33 % 
+Other                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+TypeScript               1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.60 % 
-VS Code                  3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
-Unknown Editor           38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Kiro                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Warp                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+VS Code                  4 hrs 31 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
+Chrome                   3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+Unknown Editor           1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Termius                  39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Kiro                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🐱‍💻 Projects: 
-poc-ai-video-analysis-ado6 hrs 46 mins       ███████████████████░░░░░░   74.88 % 
-NyxTech                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-poc-ave360-aidlc-asertec 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-project-asistente-dicio  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+poc-ai-video-analysis-ado6 hrs 13 mins       ████████████████░░░░░░░░░   62.42 % 
+poc-ave360-aidlc-asertec 1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+NyxTech                  1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+David_Test_2             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-Mac                      9 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -380,7 +382,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 06:31:40 UTC
+ Last Updated on 25/07/2026 09:12:25 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
