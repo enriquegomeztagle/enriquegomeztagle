@@ -299,7 +299,9 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C561%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2012%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
 
@@ -307,7 +309,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,444 Contributions in the Year 2026
+> 🏆 4,445 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -318,15 +320,15 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3152 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-🌆 Daytime                4122 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌞 Morning                3153 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+🌆 Daytime                4122 commits        ███████░░░░░░░░░░░░░░░░░░   29.70 % 
 🌃 Evening                3103 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-🌙 Night                  3499 commits        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌙 Night                  3499 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1864 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Monday                   1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
 Tuesday                  2226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 Wednesday                1961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
 Thursday                 1882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
@@ -366,6 +368,28 @@ project-nyxn-forge       36 mins             █░░░░░░░░░░�
 Mac                      11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 33 mins (76.94%)
+
+✍️ 15,125 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 162,571,741 Input Tokens, 666,640 Output Tokens
+
+💵 $832.86 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 62 AI Prompts
+
+GPT                      15,333 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 638 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -383,7 +407,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 12:40:30 UTC
+ Last Updated on 27/07/2026 15:57:26 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
