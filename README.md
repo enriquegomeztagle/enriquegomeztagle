@@ -299,17 +299,13 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2012%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-183%20hrs%2023%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,450 Contributions in the Year 2026
+> 🏆 4,451 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -317,79 +313,6 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3155 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-🌆 Daytime                4125 commits        ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-🌃 Evening                3103 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-🌙 Night                  3499 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1870 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Tuesday                  2226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                1961 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Thursday                 1882 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Friday                   2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Saturday                 1866 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   1965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Markdown                 4 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
-Other                    2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.71 % 
-Chrome                   4 hrs               █████████░░░░░░░░░░░░░░░░   36.00 % 
-Unknown Editor           1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Termius                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Kiro                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-
-🐱‍💻 Projects: 
-poc-ai-video-analysis-ado6 hrs 13 mins       ██████████████░░░░░░░░░░░   56.05 % 
-poc-ave360-aidlc-asertec 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-NyxTech                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-David_Test_2             43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-project-nyxn-forge       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-
-💻 Operating System: 
-Mac                      11 hrs 7 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 33 mins (76.94%)
-
-✍️ 15,125 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 162,571,741 Input Tokens, 666,640 Output Tokens
-
-💵 $832.86 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 62 AI Prompts
-
-GPT                      15,333 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 638 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -407,7 +330,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 03:24:17 UTC
+ Last Updated on 28/07/2026 06:41:37 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
