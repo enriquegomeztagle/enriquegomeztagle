@@ -299,9 +299,9 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-195%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-200%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.23%20million%20lines%20of%20code-blue?style=flat)
 
@@ -323,17 +323,17 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 🌞 Morning                3159 commits        ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
 🌆 Daytime                4112 commits        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
 🌃 Evening                3106 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌙 Night                  3506 commits        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+🌙 Night                  3507 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1868 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Tuesday                  2222 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Monday                   1868 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Tuesday                  2222 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 Wednesday                1955 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Thursday                 1886 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 Friday                   2121 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Saturday                 1866 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Saturday                 1867 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 Sunday                   1965 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
 ```
 
@@ -344,52 +344,52 @@ Sunday                   1965 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Other                    5 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.09 % 
-Python                   4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-Markdown                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-JSON                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-TypeScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Python                   7 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+Other                    5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+JSON                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.57 % 
-Chrome                   3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Warp                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Claude Code              1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Unknown Editor           1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+VS Code                  11 hrs 37 mins      ██████████████░░░░░░░░░░░   56.28 % 
+Chrome                   3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Warp                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Claude Code              1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Unknown Editor           44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🐱‍💻 Projects: 
-poc-ave360-aidlc-asertec 3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-David_Test_2             2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-poc-ai-video-analysis-ado2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-project-asistente-dicio  2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-ALIANZA-FIDUCIARIA       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+project-nyxn-forge       5 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+project-asistente-dicio  3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+poc-ave360-aidlc-asertec 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+David_Test_2             2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+ALIANZA-FIDUCIARIA       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 
 💻 Operating System: 
-Mac                      18 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      20 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 56 mins (82.52%)
+⏱ AI Coding Time: 17 hrs 57 mins (86.96%)
 
-✍️ 6,190 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,221 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 329,314,293 Input Tokens, 1,052,081 Output Tokens
+🔤 501,238,863 Input Tokens, 1,162,618 Output Tokens
 
-💵 $1446.50 Estimated AI Cost This Week
+💵 $2309.43 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 192 AI Prompts
+🧠 16 AI Sessions, 192 AI Prompts
 
-GPT                      5,762 lines         ███████████████████████░░   90.48 % 
-Sonnet                   606 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+GPT                      4,769 lines         ██████████████████████░░░   88.73 % 
+Sonnet                   606 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 428 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📝 Concise Prompter — average 427 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -410,7 +410,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 06:44:34 UTC
+ Last Updated on 01/08/2026 09:19:40 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
