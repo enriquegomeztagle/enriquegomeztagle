@@ -309,7 +309,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,674 Contributions in the Year 2026
+> 🏆 6,675 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -320,10 +320,10 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3305 commits        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+🌞 Morning                3305 commits        ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
 🌆 Daytime                4348 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                3241 commits        ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-🌙 Night                  3649 commits        ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌃 Evening                3241 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+🌙 Night                  3650 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -334,7 +334,7 @@ Wednesday                2052 commits        ████░░░░░░░�
 Thursday                 1956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 Friday                   2208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 Saturday                 1964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   2056 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   2057 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 ```
 
 
@@ -344,52 +344,52 @@ Sunday                   2056 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Other                    14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Python                   6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Markdown                 5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Fork                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JavaScript               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Other                    14 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
+Fork                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Python                   3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TeX                      2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   37.17 % 
-Claude Code              9 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Codex Vscode             9 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Warp                     5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-NotionCalendar           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Chrome                   12 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Claude Code              10 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Codex Vscode             6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Warp                     5 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+NotionCalendar           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🐱‍💻 Projects: 
-project-asistente-dicio  22 hrs 25 mins      █████████████░░░░░░░░░░░░   50.52 % 
-LaTeX-Workshop           4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Data-AI                  4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-oauth                    3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-project-nyxn-forge       2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+project-asistente-dicio  17 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.99 % 
+LaTeX-Workshop           4 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Data-AI                  4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+oauth                    3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+PRECREDIT                1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 💻 Operating System: 
-Mac                      44 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 53 mins (80.85%)
+⏱ AI Coding Time: 29 hrs 1 min (77.44%)
 
-✍️ 13,209 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,737 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 85,753,907 Input Tokens, 2,343,980 Output Tokens
+🔤 78,388,706 Input Tokens, 1,753,955 Output Tokens
 
-💵 $1070.55 Estimated AI Cost This Week
+💵 $682.19 Estimated AI Cost This Week
 
-🧠 59 AI Sessions, 453 AI Prompts
+🧠 52 AI Sessions, 446 AI Prompts
 
-GPT                      10,338 lines        ███████████████████░░░░░░   74.72 % 
-Sonnet                   3,317 lines         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-Codex-Vscode             180 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Sonnet                   3,318 lines         █████████████░░░░░░░░░░░░   52.78 % 
+GPT                      2,968 lines         ████████████░░░░░░░░░░░░░   47.22 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 531 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📄 Detailed Prompter — average 566 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -410,7 +410,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 06:05:46 UTC
+ Last Updated on 20/09/2026 11:19:36 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
