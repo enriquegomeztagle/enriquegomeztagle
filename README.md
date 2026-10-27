@@ -303,13 +303,13 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-538%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.29%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7,897 Contributions in the Year 2026
+> 🏆 7,930 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -320,21 +320,21 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                3356 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+🌆 Daytime                4478 commits        ████████░░░░░░░░░░░░░░░░░   30.20 % 
+🌃 Evening                3301 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌙 Night                  3695 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   2014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Tuesday                  2366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Wednesday                2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Thursday                 1983 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   2265 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Saturday                 2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
 
 
@@ -391,8 +391,14 @@ Sonnet                   2,205 lines         █░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-```text
+**I Mostly Code in Python** 
 
+```text
+Python                   30 repos            ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Jupyter Notebook         24 repos            ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Swift                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+TypeScript               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
@@ -402,7 +408,7 @@ Sonnet                   2,205 lines         █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 04:37:07 UTC
+ Last Updated on 27/10/2026 10:29:41 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
