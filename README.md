@@ -309,7 +309,7 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 8,081 Contributions in the Year 2026
+> 🏆 8,082 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -321,9 +321,9 @@ Discover my featured projects that showcase my skills in AI, cloud architecture,
 
 ```text
 🌞 Morning                3360 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-🌆 Daytime                4483 commits        ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                3304 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌙 Night                  3699 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌆 Daytime                4483 commits        ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌃 Evening                3305 commits        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌙 Night                  3699 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -332,7 +332,7 @@ Monday                   2014 commits        ███░░░░░░░░�
 Tuesday                  2370 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Wednesday                2092 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 Thursday                 1987 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Friday                   2269 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Friday                   2270 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 Saturday                 2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
 Sunday                   2088 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
 ```
@@ -344,51 +344,51 @@ Sunday                   2088 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JSON                     18 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-Markdown                 18 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
-Python                   17 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Text                     7 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-JavaScript               3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+JSON                     25 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.98 % 
+Python                   23 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+Markdown                 18 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Text                     8 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+JavaScript               1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Codex Vscode             49 hrs 37 mins      ██████████████████░░░░░░░   70.20 % 
-Chrome                   13 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Claude Code              6 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Kiro                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Warp                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Codex Vscode             54 hrs 19 mins      █████████████████░░░░░░░░   66.90 % 
+Chrome                   13 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Claude Code              12 hrs 8 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Kiro                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Warp                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-project-asistente-dicio  63 hrs 36 mins      ██████████████████████░░░   89.98 % 
-project-nyxn-forge       2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-interno-roadmap-ai       1 hr 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-NyxTech                  1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-project-asistente-alianza1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+project-asistente-dicio  73 hrs 37 mins      ███████████████████████░░   90.68 % 
+project-nyxn-forge       2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+interno-roadmap-ai       2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+project-asistente-alianza1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+project-stoyco-partners-d33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Mac                      70 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      81 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 66 hrs 27 mins (94.0%)
+⏱ AI Coding Time: 76 hrs 3 mins (93.66%)
 
-✍️ 48,387 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 39,325 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 54,958,907 Input Tokens, 9,950,311 Output Tokens
+🔤 67,362,329 Input Tokens, 12,801,242 Output Tokens
 
-💵 $1129.96 Estimated AI Cost This Week
+💵 $953.95 Estimated AI Cost This Week
 
-🧠 222 AI Sessions, 858 AI Prompts
+🧠 233 AI Sessions, 1079 AI Prompts
 
-GPT                      40,425 lines        █████████████████████░░░░   83.20 % 
-Opus                     8,108 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sonnet                   57 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GPT                      29,125 lines        ██████████████████░░░░░░░   73.80 % 
+Opus                     10,249 lines        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Sonnet                   92 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 17,718 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 16,092 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -409,7 +409,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/enriquegomeztagle/enriquegomeztagle/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 05:12:52 UTC
+ Last Updated on 31/10/2026 12:10:47 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">🐍 Contributions</h1>
